@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Musa Surya S</h1>
 <h3 align="center">A Junior Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=requereves&label=Profile%20views&color=0e75b6&style=flat" alt="requereves" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Requereves&icon=2&color=0)](https://visitcount.itsvg.in)
 
 - ⚡ Fun fact **I like learning something new**
 
@@ -20,6 +20,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Requereves&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Requereves&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
