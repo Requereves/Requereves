@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Requereves&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I like learning something new**
+- ⚡ Fun fact **like learning something new**
 
 
 ## Socials:
